@@ -3,7 +3,7 @@ layout: default
 ---
 Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
-# Proffesional Experience 
+### Proffesional Experience 
 
 <b>IT Support Analyst - H&M <br /> </b>   
 <p style ="color:#ce4257"> Oct 24 </p>
@@ -24,27 +24,19 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 >- Maintaining Clientele relations <br />
 >- Adhering to HMRC REgulations to Payroll Laws. 
 
-## Header 2
+### Projects
 
-> This a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
+> To be Added Soon 
 
-### Header 3
+### Skills
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+|Languages         | Hard Skills           | three |
+|:-----------------|:----------------------|:------|
+| Python           | Network Access Control| nice  |
+| HTML             | Penetration Testing   | nice  |
+| #C               | Threat Detection      | hmm   |
+| Arduino          | Incident Response     | yumm  |
+| SQL              |
 
 #### Header 4
 
