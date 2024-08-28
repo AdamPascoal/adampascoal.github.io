@@ -6,17 +6,19 @@ layout: default
 ## Proffesional Experience 
 
 <b>IT Support Analyst - H&M <br /> </b>   
-<p style ="color:blue;"> Oct 2024 </p>
+<p style ="color:#e5e5e5;"> Oct 2024 </p>
 >- to be filled yet
 
-<b>Payroll Administrator - H&M  <br /></b>   Sep 23 - Oct 24
+<b>Payroll Administrator - H&M  <br /></b>
+<p style ="color:#e5e5e5;">  Sep 23 - Oct 24 </p>
 >-  Maintaining the Implementation and transistion of new Payroll system.<br />
 >- Developed and Streamlined Payroll process using Advanced Excel functions and Forumlas increasing efficiency and accuracy.<br />
 >- Processing Monthly End to End payroll including any statutory payments. <br />
 >- Resolved Staff Queries <br />
 >- Ensured Confidentitality of Employee pay records, maintaining strict data security.
 
-<b>Payroll Administrator - Willow Pay Ltd <br /> </b> Jan 23 - Sep 23
+<b>Payroll Administrator - Willow Pay Ltd <br /> </b> 
+<p style ="color:#e5e5e5;">  Jan 23 - Sep 24 </p>
 >- Processing Clientele Payroll <br />
 >- Amending time sheet and resolving Queries <br />
 >- Maintaining Clientele relations <br />
