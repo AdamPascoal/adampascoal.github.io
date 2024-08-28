@@ -10,8 +10,7 @@ Hi Welcome to my page of Various Projects.
 
 ## Header 2
 
-> This is a blockquote following a header.
->
+> This a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
