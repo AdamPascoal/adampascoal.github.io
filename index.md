@@ -5,7 +5,8 @@ layout: default
 
 ## Proffesional Experience 
 
-<b>IT Support Analyst - H&M <br /> </b>     <p style = "color:Blue;"> Oct 2024 </p>
+<b>IT Support Analyst - H&M <br /> </b>   
+<p style ="color:blue;"> Oct 2024 </p>
 >- to be filled yet
 
 <b>Payroll Administrator - H&M  <br /></b>   Sep 23 - Oct 24
