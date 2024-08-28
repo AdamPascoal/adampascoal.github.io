@@ -99,7 +99,7 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Large image
 
-![Branching](https://github.com/AdamPascoal/adampascoal.github.io/blob/main/png-transparent-black-loading-illustration-t-shirt-wall-decal-sticker-polyvinyl-chloride-loading-angle-text-rectangle-thumbnail.png)
+![Branching](png-transparent-black-loading-illustration-t-shirt-wall-decal-sticker-polyvinyl-chloride-loading-angle-text-rectangle-thumbnail.png)
 
 
 ### Definition lists can be used with HTML syntax.
