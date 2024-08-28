@@ -29,7 +29,7 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Projects
 
-![CATO](laoding.png)
+![CATO](loading.png)
 
 ### Skills
 
