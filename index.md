@@ -5,21 +5,21 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ## Proffesional Experience 
 
-<b>IT Support Analyst - H&M <br /> </b>
-> - to be filled yet
+style="color:Blue;> <b>IT Support Analyst - H&M <br /> </b>
+>- to be filled yet
 
 <b>Payroll Administrator - H&M  <br /></b>
-   > - Maintaining the Implementation and transistion of new Payroll system.<br />
-   > - Developed and Streamlined Payroll process using Advanced Excel functions and Forumlas increasing efficiency and accuracy.<br />
-   > - Processing Monthly End to End payroll including any statutory payments. <br />
-   > - Resolved Staff Queries <br />
-   > - Ensured Confidentitality of Employee pay records, maintaining strict data security.
+>-  Maintaining the Implementation and transistion of new Payroll system.<br />
+>- Developed and Streamlined Payroll process using Advanced Excel functions and Forumlas increasing efficiency and accuracy.<br />
+>- Processing Monthly End to End payroll including any statutory payments. <br />
+>- Resolved Staff Queries <br />
+>- Ensured Confidentitality of Employee pay records, maintaining strict data security.
 
 <b>Payroll Administrator - Willow Pay Ltd <br /> </b>
-> Processing Clientele Payroll <br />
-> Amending time sheet and resolving Queries <br />
-> Maintaining Clientele relations <br />
-> Adhering to HMRC REgulations to Payroll Laws. 
+>- Processing Clientele Payroll <br />
+>- Amending time sheet and resolving Queries <br />
+>- Maintaining Clientele relations <br />
+>- Adhering to HMRC REgulations to Payroll Laws. 
 
 ## Header 2
 
