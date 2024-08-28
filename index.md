@@ -5,7 +5,7 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ![CAT1](catonkeyboard.png)
 
-### Proffesional Experience 
+### Proffesional Experience
 ![workingcat](workingcat.png)
 
 <b>IT Support Analyst - H&M <br /> </b>   
