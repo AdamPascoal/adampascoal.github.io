@@ -24,6 +24,9 @@ layout: default
 >- Maintaining Clientele relations <br />
 >- Adhering to HMRC REgulations to Payroll Laws. 
 
+.hidden { 
+  display : none;
+}
 ## Header 2
 
 > This a blockquote following a header.
