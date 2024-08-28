@@ -15,6 +15,12 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
    > - Resolved Staff Queries <br />
    > - Ensured Confidentitality of Employee pay records, maintaining strict data security.
 
+<b>Payroll Administrator - Willow Pay Ltd <br /> </b>
+> Processing Clientele Payroll <br />
+> Amending time sheet and resolving Queries <br />
+> Maintaining Clientele relations <br />
+> Adhering to HMRC REgulations to Payroll Laws. 
+
 ## Header 2
 
 > This a blockquote following a header.
