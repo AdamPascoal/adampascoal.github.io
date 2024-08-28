@@ -30,13 +30,13 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Skills
 
-|Languages         | Hard Skills           | three |
+|Languages         | Hard Skills           | Operating systems |
 |:-----------------|:----------------------|:------|
-| Python           | Network Access Control| nice  |
-| HTML             | Penetration Testing   | nice  |
-| #C               | Threat Detection      | hmm   |
-| Arduino          | Incident Response     | yumm  |
-| SQL              |
+| Python           | Network Access Control| Windows  |
+| HTML             | Penetration Testing   | Kali Linux |
+| #C               | Threat Detection      | Mac OS     |
+| Arduino          | Incident Response     |          |
+| SQL              |  
 
 #### Header 4
 
