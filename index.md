@@ -48,12 +48,13 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Skills     | 
+|:-------------|
+| Penetration Testing|
+| Ethical Hacking | 
+| Cybersecurity   | 
+| System Administration |
+| Network Security Control |
 
 
 
