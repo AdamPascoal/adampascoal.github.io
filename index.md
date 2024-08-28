@@ -6,11 +6,7 @@ layout: default
 ## Proffesional Experience 
 
 <b>IT Support Analyst - H&M <br /> </b>   
-<div class="wrapper">
-    <div class="typing-demo">
-      Oct 2024
-    </div>
-</div>
+<p style ="color:#ce4257"> Oct 24 </p>
 >- to be filled yet
 
 <b>Payroll Administrator - H&M  <br /></b>
