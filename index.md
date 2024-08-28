@@ -42,6 +42,6 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 | SQL      | System Backup and Network Security
 
 ```
-Thank you for taking a look 
+Thank you for taking a look see you soon
 ```
 ![catlooking](catlooking.png)
