@@ -6,6 +6,7 @@ Hello, Welcome to my page. My name is Leon Adam Pascoal. A Cybersecurity enthusi
 ![CAT1](catonkeyboard.png)
 
 ### Proffesional Experience 
+![workingcat](workingcat.png)
 
 <b>IT Support Analyst - H&M <br /> </b>   
 <p style ="color:#ce4257"> Oct 24 </p>
@@ -43,4 +44,4 @@ Hello, Welcome to my page. My name is Leon Adam Pascoal. A Cybersecurity enthusi
 ```
 Thank you for taking a look 
 ```
-![catlooking] (catlooking.png)
+![catlooking](catlooking.png)
