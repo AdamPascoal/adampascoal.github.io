@@ -3,7 +3,7 @@ layout: default
 ---
 <img src= https://i.pinimg.com/564x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg > <br/>
 ---
-Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.!
+Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
 
 ### Proffesional Experience
