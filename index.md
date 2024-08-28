@@ -31,7 +31,7 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Projects
 
-![CATO](loading.png)
+<img width=260 src="https://i.pinimg.com/564x/26/7b/27/267b2739a43879ee7e3c83c8b8e88953.jpg">
 
 ###  Languages
 
