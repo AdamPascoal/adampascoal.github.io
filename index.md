@@ -28,7 +28,6 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Projects
 
-> To be Added Soon <br/>
 ![CATO](png-transparent-black-loading-illustration-t-shirt-wall-decal-sticker-polyvinyl-chloride-loading-angle-text-rectangle-thumbnail.png)
 
 ### Skills
