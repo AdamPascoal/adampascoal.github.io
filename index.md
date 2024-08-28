@@ -33,7 +33,7 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 <img width=260 src="https://i.pinimg.com/564x/26/7b/27/267b2739a43879ee7e3c83c8b8e88953.jpg">
 
-###  Languages
+###  Languages & Skills
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -43,9 +43,18 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-
 <br />
+
+
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 
 
 ```
