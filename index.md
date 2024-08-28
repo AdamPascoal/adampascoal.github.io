@@ -6,7 +6,8 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 <img align="center" src= https://i.pinimg.com/564x/5c/23/eb/5c23eb717a001899da50662205f9fd2d.jpg >
 
 ### Proffesional Experience
-<img align="left" src="https://i.pinimg.com/564x/58/b9/aa/58b9aac1da7597fa40825282bc9d3cf7.jpg" >
+<img src="https://i.pinimg.com/564x/58/b9/aa/58b9aac1da7597fa40825282bc9d3cf7.jpg" >
+
 <br />
 <b>IT Support Analyst - H&M <br /> </b>   
 <p style ="color:#ce4257"> Oct 24 </p>
