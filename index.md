@@ -5,6 +5,10 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ![CAT1](catonkeyboard.png)
 
+My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdamPascoal&show_icons=true&theme=gotham" alt="adampascoallogite" />
+
 ### Proffesional Experience
 ![workingcat](workingcat.png)
 
