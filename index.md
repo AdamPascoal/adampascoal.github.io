@@ -3,6 +3,8 @@ layout: default
 ---
 Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
+![CAT1]catonkeyboard.jpg
+
 ### Proffesional Experience 
 
 <b>IT Support Analyst - H&M <br /> </b>   
