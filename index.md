@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
+//Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
 ## Proffesional Experience 
 
-<b>IT Support Analyst - H&M <br /> </b>      Oct 2024
+<b>IT Support Analyst - H&M <br /> </b>     <style = "color:Blue;"> Oct 2024
 >- to be filled yet
 
 <b>Payroll Administrator - H&M  <br /></b>   Sep 23 - Oct 24
