@@ -3,14 +3,16 @@ layout: default
 ---
 Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
-# Proffesional Experience 
+## Proffesional Experience 
 
-> <b>IT Support Analyst - H&M </b>
+> <b>IT Support Analyst - H&M <br /> </b>
 
-> <b>Payroll Administrator - H&M  </b>
-    -Maintaining the Implementation and transistion of new Payroll system
-    -Developed and Streamlined Payroll process using Advanced Excel functions and Forumlas increasing efficiency and accuracy.
-    -
+> <b>Payroll Administrator - H&M  <br /></b>
+    - Maintaining the Implementation and transistion of new Payroll system.<br />
+    - Developed and Streamlined Payroll process using Advanced Excel functions and Forumlas increasing efficiency and accuracy.<br />
+    - Processing Monthly End to End payroll including any statutory payments. <br />
+    - Resolved Staff Queries <br />
+    - Ensured Confidentitality of Employee pay records, maintaining strict data security.
 
 
 
