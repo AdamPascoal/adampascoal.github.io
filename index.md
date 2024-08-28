@@ -4,9 +4,9 @@ layout: default
 
 Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
-# Header 1
+> # Header 1
 
-Hi Welcome to my page of Various Projects.
+
 
 ## Header 2
 
