@@ -30,13 +30,13 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Skills
 
-|Languages         | Hard Skills           | Operating systems |
+|Languages  | Hard Skills   | Operating systems | 
 |:-----------------|:----------------------|:------|
-| Python           | Network Access Control| Windows  |
-| HTML             | Penetration Testing   | Kali Linux |
-| #C               | Threat Detection      | Mac OS     |
-| Arduino          | Incident Response     |          |
-| SQL              |  
+| Python   | Network Access Control| Windows  | 
+| HTML     | Penetration Testing   | Kali Linux |
+| #C       | Threat Detection      | Mac OS   |
+| Arduino  | Incident Response     |          |
+| SQL      | System Backup and Network Security
 
 #### Header 4
 
@@ -99,7 +99,7 @@ Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast w
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://github.com/AdamPascoal/adampascoal.github.io/blob/main/png-transparent-black-loading-illustration-t-shirt-wall-decal-sticker-polyvinyl-chloride-loading-angle-text-rectangle-thumbnail.png)
 
 
 ### Definition lists can be used with HTML syntax.
