@@ -1,13 +1,6 @@
 ---
-
+layout: default
 ---
-
-# Adam Pascoal 
-### Portfolio 
- <p align="left">
-      <a href="https://www.linkedin.com/in/adampascoal/">
-         <img alt="Linkedin" width=30px src="https://github.com/lifeitech/iconic-resume/blob/master/imgs/linkedin.png?raw=true"></a> 
-
 
 <img src="https://i.pinimg.com/564x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg" >
 <br/>
