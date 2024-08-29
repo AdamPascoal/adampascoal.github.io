@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<img src="https://i.pinimg.com/564x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg" >
+![Weclomeimg](https://i.pinimg.com/564x/77/92/b7/7792b7ebda5048dc384ca7a56b8f5b1e.jpg)
 <br/>
 
 Hello, Welcome to my page. My name is Adam Pascoal. A Cybersecurity enthusiast with interest in Networking and Hardware.
 
 
 ### Proffesional Experience
-<img src="https://i.pinimg.com/564x/58/b9/aa/58b9aac1da7597fa40825282bc9d3cf7.jpg" >
+![workingcat](https://i.pinimg.com/564x/58/b9/aa/58b9aac1da7597fa40825282bc9d3cf7.jpg)                    
 
 <br />
-<b>IT Support Analyst - H&M <br /> </b>   
+<b>IT Support Analyst - H&M <br /> </b>     
 <p style ="color:#ce4257"> Oct 24 </p>
 >- to be filled yet
 
